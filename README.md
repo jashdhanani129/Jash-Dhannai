@@ -1,2 +1,9 @@
-# Jash-Dhannai
-Hi there! I'm a Bachelor of Engineering (BE) student in Computer Engineering at Government Engineering College, Gandhinagar. I'm passionate about coding, problem-solving, and building innovative tech solutions. I enjoy working on projects that challenge me to learn new technologies and improve my skills.
+#include <stdio.h>
+
+int main()
+{
+    printf("My name is Jash Dhanani.");
+    printf("This is my first program.");
+
+    return 0;
+}
