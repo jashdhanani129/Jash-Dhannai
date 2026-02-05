@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+ int a;
+    printf("Enter marks=");
+    scanf("%d", &a);
+    
+    if(a>=37)
+    printf("You are PASSS.");
+    else
+    printf("You are FAIL.");
+    
+    return 0;
+}
